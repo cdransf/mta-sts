@@ -1,3 +1,3 @@
 # mta-sts
 
-mta-sts well-known page for cdransfeldt.com domain.
+mta-sts well-known page for coryd.dev domain.
