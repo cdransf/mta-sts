@@ -1,8 +1,5 @@
 version: STSv1
 mode: testing
-mx: ALT2.ASPMX.L.GOOGLE.COM
-mx: ASPMX.L.GOOGLE.COM
-mx: ALT1.ASPMX.L.GOOGLE.COM
-mx: ALT3.ASPMX.L.GOOGLE.COM
-mx: ALT4.ASPMX.L.GOOGLE.COM
+mx: in1-smtp.messagingengine.com
+mx: in2-smtp.messagingengine.com
 max_age: 604800
